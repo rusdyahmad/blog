@@ -113,3 +113,8 @@ h1.post-title {
 .post-content h6 {
     font-size: 0.75rem; /* Reduced by same ratio */
 }
+
+/* Make logo text (RA) bold */
+.logo a {
+    font-weight: 700 !important;
+}
