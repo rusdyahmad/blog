@@ -118,3 +118,8 @@ h1.post-title {
 .logo a {
     font-weight: 700 !important;
 }
+
+/* Make Posts menu active when viewing individual posts */
+body:not(.list) #menu a[href*="/posts/"] span {
+    text-decoration: underline !important;
+}
