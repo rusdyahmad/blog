@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ownership on RA</title><link>https://rusdy.com/tags/ownership/</link><description>Recent content in Ownership on RA</description><generator>Hugo -- 0.149.0</generator><language>en-us</language><lastBuildDate>Thu, 04 Sep 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://rusdy.com/tags/ownership/index.xml" rel="self" type="application/rss+xml"/><item><title>Managing Model Ownership in Laravel with the Ownable Package</title><link>https://rusdy.com/posts/laravel-ownable-package/</link><pubDate>Thu, 04 Sep 2025 10:00:00 +0800</pubDate><guid>https://rusdy.com/posts/laravel-ownable-package/</guid><description>&lt;p&gt;Need a clean, reusable solution to handle ownership dynamics in your Laravel app? Enter &lt;strong&gt;Laravel Ownable&lt;/strong&gt; — a polished package by Abdullah Sowailem that lets any Eloquent model own any other model. Whether you&amp;rsquo;re managing users and tasks, vendors and products, or documents with dynamic custodians, this package brings clarity, flexibility, and auditability to ownership logic.&lt;/p&gt;
-&lt;p&gt;Here&amp;rsquo;s a refreshed overview for your blog, incorporating up-to-date insights from the official repository (updated August 10, 2025).&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ownership on RA</title>
+    <link>http://localhost:1313/tags/ownership/</link>
+    <description>Recent content in Ownership on RA</description>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Sep 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ownership/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Managing Model Ownership in Laravel with the Ownable Package</title>
+      <link>http://localhost:1313/posts/laravel-ownable-package/</link>
+      <pubDate>Thu, 04 Sep 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/laravel-ownable-package/</guid>
+      <description>&lt;p&gt;Need a clean, reusable solution to handle ownership dynamics in your Laravel app? Enter &lt;strong&gt;Laravel Ownable&lt;/strong&gt; — a polished package by Abdullah Sowailem that lets any Eloquent model own any other model. Whether you&amp;rsquo;re managing users and tasks, vendors and products, or documents with dynamic custodians, this package brings clarity, flexibility, and auditability to ownership logic.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a refreshed overview for your blog, incorporating up-to-date insights from the official repository (updated August 10, 2025).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
