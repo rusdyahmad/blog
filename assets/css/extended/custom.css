@@ -135,7 +135,5 @@ h1.post-title {
     font-weight: 700 !important;
 }
 
-/* Make Posts menu active when viewing individual posts or posts list */
-#menu a[href*="/posts/"] span {
-    text-decoration: underline !important;
-}
+/* Remove our custom underline since theme handles active state */
+/* The theme automatically adds class="active" to active menu items */
