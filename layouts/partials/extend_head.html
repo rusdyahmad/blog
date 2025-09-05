@@ -1,0 +1,11 @@
+<script>
+// Add active state to Posts menu when on any posts page
+document.addEventListener('DOMContentLoaded', function() {
+    if (window.location.pathname.startsWith('/posts/')) {
+        const postsMenuSpan = document.querySelector('#menu a[href*="/posts/"] span');
+        if (postsMenuSpan && !postsMenuSpan.classList.contains('active')) {
+            postsMenuSpan.classList.add('active');
+        }
+    }
+});
+</script>
