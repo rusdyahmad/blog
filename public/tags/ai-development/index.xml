@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI Development on RA</title><link>https://rusdy.com/tags/ai-development/</link><description>Recent content in AI Development on RA</description><generator>Hugo -- 0.149.0</generator><language>en-us</language><lastBuildDate>Mon, 08 Sep 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://rusdy.com/tags/ai-development/index.xml" rel="self" type="application/rss+xml"/><item><title>Claude Code: Revolutionizing My Development Workflow</title><link>https://rusdy.com/posts/claude-code-replacing-windsurf-cursor/</link><pubDate>Mon, 08 Sep 2025 10:00:00 +0800</pubDate><guid>https://rusdy.com/posts/claude-code-replacing-windsurf-cursor/</guid><description>&lt;p&gt;After years of using various AI-powered coding assistants like Windsurf and Cursor, I never expected to find a tool that would completely transform my development workflow. Enter &lt;strong&gt;Claude Code&lt;/strong&gt; – Anthropic&amp;rsquo;s revolutionary CLI that&amp;rsquo;s not just another coding assistant, but a complete paradigm shift in how we approach software development.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Claude Code Interface" loading="lazy" src="https://rusdy.com/claude_code.png"&gt;&lt;/p&gt;
-&lt;h2 id="the-problem-with-traditional-ai-coding-tools"&gt;The Problem with Traditional AI Coding Tools&lt;/h2&gt;
-&lt;p&gt;Let me be honest – I was skeptical at first. I&amp;rsquo;d tried Windsurf, Cursor, GitHub Copilot, and countless other AI coding tools. While they were helpful for autocompletion and simple code generation, they all had similar limitations:&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Development on RA</title>
+    <link>https://rusdy.com/tags/ai-development/</link>
+    <description>Recent content in AI Development on RA</description>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 14:00:00 +0800</lastBuildDate>
+    <atom:link href="https://rusdy.com/tags/ai-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codebuff: The AI Command Line Copilot That Will Revolutionize Your Workflow</title>
+      <link>https://rusdy.com/posts/codebuff-ai-command-line-coding-assistant/</link>
+      <pubDate>Wed, 15 Jan 2025 14:00:00 +0800</pubDate>
+      <guid>https://rusdy.com/posts/codebuff-ai-command-line-coding-assistant/</guid>
+      <description>&lt;p&gt;Tired of switching between your terminal and IDE just to get AI help with coding? What if I told you there&amp;rsquo;s an AI coding assistant that lives directly in your command line, understands your entire project, and can make wholesale changes across multiple files with a single natural language command?&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Codebuff&lt;/strong&gt; – the terminal-native AI coding assistant that&amp;rsquo;s changing how developers interact with AI tools.&lt;/p&gt;
+&lt;h2 id=&#34;what-makes-codebuff-different&#34;&gt;What Makes Codebuff Different?&lt;/h2&gt;
+&lt;h3 id=&#34;its-built-for-the-terminal&#34;&gt;It&amp;rsquo;s Built for the Terminal&lt;/h3&gt;
+&lt;p&gt;Unlike other AI coding tools that require you to leave your workflow, Codebuff operates entirely within your terminal. No more context switching, no more copying and pasting between applications. Just pure, uninterrupted development flow.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
