@@ -1,0 +1,35 @@
+port 1313 already in use, attempting to use an available port
+Watching for changes in /Users/me/code/bad/rusdy/{archetypes,assets,content,data,i18n,layouts,static,themes}
+Watching for config changes in /Users/me/code/bad/rusdy/hugo.toml
+Start building sites … 
+hugo v0.149.0+extended+withdeploy darwin/arm64 BuildDate=2025-08-27T15:37:16Z VendorInfo=brew
+
+
+                  │ EN 
+──────────────────┼────
+ Pages            │ 45 
+ Paginator pages  │  0 
+ Non-page files   │  0 
+ Static files     │  1 
+ Processed images │  0 
+ Aliases          │ 16 
+ Cleaned          │  0 
+
+Built in 50 ms
+Environment: "development"
+Serving pages from disk
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:57794/ (bind address 127.0.0.1) 
+Press Ctrl+C to stop
+
+Change detected, rebuilding site (#1).
+2025-09-13 01:37:11.362 +0800
+Source changed /posts/6.md
+Web Server is available at http://localhost:57794/ (bind address 127.0.0.1)
+Total in 37 ms
+
+Change detected, rebuilding site (#2).
+2025-09-13 01:37:56.361 +0800
+Source changed /posts/6.md
+Web Server is available at http://localhost:57794/ (bind address 127.0.0.1)
+Total in 22 ms
