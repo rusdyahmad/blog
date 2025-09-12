@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on RA</title>
     <link>https://rusdy.com/tags/</link>
     <description>Recent content in Tags on RA</description>
-    <generator>Hugo -- 0.149.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Sep 2025 10:00:00 +0800</lastBuildDate>
     <atom:link href="https://rusdy.com/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -97,20 +97,6 @@
       <link>https://rusdy.com/tags/ownership/</link>
       <pubDate>Thu, 04 Sep 2025 10:00:00 +0800</pubDate>
       <guid>https://rusdy.com/tags/ownership/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI Development</title>
-      <link>https://rusdy.com/tags/ai-development/</link>
-      <pubDate>Wed, 15 Jan 2025 14:00:00 +0800</pubDate>
-      <guid>https://rusdy.com/tags/ai-development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Coding Tools</title>
-      <link>https://rusdy.com/tags/coding-tools/</link>
-      <pubDate>Wed, 15 Jan 2025 14:00:00 +0800</pubDate>
-      <guid>https://rusdy.com/tags/coding-tools/</guid>
       <description></description>
     </item>
   </channel>

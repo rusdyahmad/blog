@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PHP on RA</title>
     <link>https://rusdy.com/tags/php/</link>
     <description>Recent content in PHP on RA</description>
-    <generator>Hugo -- 0.149.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Sep 2025 14:00:00 +0800</lastBuildDate>
     <atom:link href="https://rusdy.com/tags/php/index.xml" rel="self" type="application/rss+xml" />
@@ -13,24 +13,14 @@
       <link>https://rusdy.com/posts/laratext-laravel-translation-package/</link>
       <pubDate>Fri, 05 Sep 2025 14:00:00 +0800</pubDate>
       <guid>https://rusdy.com/posts/laratext-laravel-translation-package/</guid>
-      <description>&lt;p&gt;Managing translations in Laravel applications can be a tedious and error-prone process, especially when dealing with multiple languages and dynamic content. Enter &lt;strong&gt;LaraText&lt;/strong&gt; by Eduardo Lázaro — an elegant package that revolutionizes how we handle internationalization in Laravel projects by combining simplicity, automation, and flexibility.&lt;/p&gt;
-&lt;h2 id=&#34;the-translation-challenge&#34;&gt;The Translation Challenge&lt;/h2&gt;
-&lt;p&gt;Traditional Laravel translation management often involves:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Creating and maintaining separate language files for each locale&lt;/li&gt;
-&lt;li&gt;Manually writing translation keys that are hard to read and maintain&lt;/li&gt;
-&lt;li&gt;Time-consuming process of translating content across multiple languages&lt;/li&gt;
-&lt;li&gt;Keeping track of missing translations across different language files&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;LaraText tackles these challenges head-on with an intuitive approach that makes translation keys both &lt;strong&gt;useful and readable&lt;/strong&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Managing translations in Laravel applications can be a tedious and error-prone process, especially when dealing with multiple languages and dynamic content. Enter &lt;strong&gt;LaraText&lt;/strong&gt; by Eduardo Lázaro — an elegant package that revolutionizes how we handle internationalization in Laravel projects by combining simplicity, automation, and flexibility.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-translation-challenge&#34;&gt;The Translation Challenge&lt;/h2&gt;&#xA;&lt;p&gt;Traditional Laravel translation management often involves:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Creating and maintaining separate language files for each locale&lt;/li&gt;&#xA;&lt;li&gt;Manually writing translation keys that are hard to read and maintain&lt;/li&gt;&#xA;&lt;li&gt;Time-consuming process of translating content across multiple languages&lt;/li&gt;&#xA;&lt;li&gt;Keeping track of missing translations across different language files&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;LaraText tackles these challenges head-on with an intuitive approach that makes translation keys both &lt;strong&gt;useful and readable&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Managing Model Ownership in Laravel with the Ownable Package</title>
       <link>https://rusdy.com/posts/laravel-ownable-package/</link>
       <pubDate>Thu, 04 Sep 2025 10:00:00 +0800</pubDate>
       <guid>https://rusdy.com/posts/laravel-ownable-package/</guid>
-      <description>&lt;p&gt;Need a clean, reusable solution to handle ownership dynamics in your Laravel app? Enter &lt;strong&gt;Laravel Ownable&lt;/strong&gt; — a polished package by Abdullah Sowailem that lets any Eloquent model own any other model. Whether you&amp;rsquo;re managing users and tasks, vendors and products, or documents with dynamic custodians, this package brings clarity, flexibility, and auditability to ownership logic.&lt;/p&gt;
-&lt;p&gt;Here&amp;rsquo;s a refreshed overview for your blog, incorporating up-to-date insights from the official repository (updated August 10, 2025).&lt;/p&gt;</description>
+      <description>&lt;p&gt;Need a clean, reusable solution to handle ownership dynamics in your Laravel app? Enter &lt;strong&gt;Laravel Ownable&lt;/strong&gt; — a polished package by Abdullah Sowailem that lets any Eloquent model own any other model. Whether you&amp;rsquo;re managing users and tasks, vendors and products, or documents with dynamic custodians, this package brings clarity, flexibility, and auditability to ownership logic.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a refreshed overview for your blog, incorporating up-to-date insights from the official repository (updated August 10, 2025).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
