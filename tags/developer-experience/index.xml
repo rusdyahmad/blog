@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Developer Experience on RA</title>
     <link>https://rusdy.com/tags/developer-experience/</link>
     <description>Recent content in Developer Experience on RA</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Sep 2025 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 14:00:00 +0800</lastBuildDate>
     <atom:link href="https://rusdy.com/tags/developer-experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codebuff: The AI Command Line Copilot That Will Revolutionize Your Workflow</title>
+      <link>https://rusdy.com/posts/codebuff-ai-command-line-coding-assistant/</link>
+      <pubDate>Fri, 12 Sep 2025 14:00:00 +0800</pubDate>
+      <guid>https://rusdy.com/posts/codebuff-ai-command-line-coding-assistant/</guid>
+      <description>&lt;p&gt;Tired of switching between your terminal and IDE just to get AI help with coding? What if I told you there&amp;rsquo;s an AI coding assistant that lives directly in your command line, understands your entire project, and can make wholesale changes across multiple files with a single natural language command?&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Codebuff&lt;/strong&gt; – the terminal-native AI coding assistant that&amp;rsquo;s changing how developers interact with AI tools.&lt;/p&gt;
+&lt;h2 id=&#34;what-makes-codebuff-different&#34;&gt;What Makes Codebuff Different?&lt;/h2&gt;
+&lt;h3 id=&#34;its-built-for-the-terminal&#34;&gt;It&amp;rsquo;s Built for the Terminal&lt;/h3&gt;
+&lt;p&gt;Unlike other AI coding tools that require you to leave your workflow, Codebuff operates entirely within your terminal. No more context switching, no more copying and pasting between applications. Just pure, uninterrupted development flow.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Finding Time for What Matters with AI Help</title>
       <link>https://rusdy.com/posts/finding-time-what-matters-ai-help/</link>
       <pubDate>Mon, 08 Sep 2025 10:00:00 +0800</pubDate>
       <guid>https://rusdy.com/posts/finding-time-what-matters-ai-help/</guid>
-      <description>&lt;p&gt;Been coding for 23 years now. Love it, always have. But man, sometimes the boring stuff just eats up all my time. Then I found Claude Code, and wow – suddenly I can build way more cool stuff AND actually have dinner with my family.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rusdy.com/claude_code.png&#34; alt=&#34;Claude Code Interface&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-problem-too-much-time-on-boring-stuff&#34;&gt;The Problem: Too Much Time on Boring Stuff&lt;/h2&gt;&#xA;&lt;p&gt;Look, after all these years, setting up databases and writing the same login code for the hundredth time isn&amp;rsquo;t fun anymore. It&amp;rsquo;s just&amp;hellip; tedious. I&amp;rsquo;d rather spend that time:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Been coding for 23 years now. Love it, always have. But man, sometimes the boring stuff just eats up all my time. Then I found Claude Code, and wow – suddenly I can build way more cool stuff AND actually have dinner with my family.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Claude Code Interface&#34; loading=&#34;lazy&#34; src=&#34;https://rusdy.com/claude_code.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-problem-too-much-time-on-boring-stuff&#34;&gt;The Problem: Too Much Time on Boring Stuff&lt;/h2&gt;
+&lt;p&gt;Look, after all these years, setting up databases and writing the same login code for the hundredth time isn&amp;rsquo;t fun anymore. It&amp;rsquo;s just&amp;hellip; tedious. I&amp;rsquo;d rather spend that time:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
