@@ -1,0 +1,12 @@
+{
+  "description": "Template configuration for this project. See https://www.codebuff.com/config for all options.",
+  "startupProcesses": [
+    {
+      "name": "hugo-server",
+      "command": "hugo server --buildDrafts --buildFuture",
+      "enabled": true,
+      "stdoutFile": "logs/hugo-server.log"
+    }
+  ],
+  "fileChangeHooks": []
+}
