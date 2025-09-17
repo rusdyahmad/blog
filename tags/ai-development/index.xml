@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI Development on RA</title>
     <link>https://rusdy.com/tags/ai-development/</link>
     <description>Recent content in AI Development on RA</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Sep 2025 14:00:00 +0800</lastBuildDate>
     <atom:link href="https://rusdy.com/tags/ai-development/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,11 @@
       <link>https://rusdy.com/posts/codebuff-ai-command-line-coding-assistant/</link>
       <pubDate>Fri, 12 Sep 2025 14:00:00 +0800</pubDate>
       <guid>https://rusdy.com/posts/codebuff-ai-command-line-coding-assistant/</guid>
-      <description>&lt;p&gt;Tired of switching between your terminal and IDE just to get AI help with coding? What if I told you there&amp;rsquo;s an AI coding assistant that lives directly in your command line, understands your entire project, and can make wholesale changes across multiple files with a single natural language command?&lt;/p&gt;&#xA;&lt;p&gt;Meet &lt;strong&gt;Codebuff&lt;/strong&gt; – the terminal-native AI coding assistant that&amp;rsquo;s changing how developers interact with AI tools.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-makes-codebuff-different&#34;&gt;What Makes Codebuff Different?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;its-built-for-the-terminal&#34;&gt;It&amp;rsquo;s Built for the Terminal&lt;/h3&gt;&#xA;&lt;p&gt;Unlike other AI coding tools that require you to leave your workflow, Codebuff operates entirely within your terminal. No more context switching, no more copying and pasting between applications. Just pure, uninterrupted development flow.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Tired of switching between your terminal and IDE just to get AI help with coding? What if I told you there&amp;rsquo;s an AI coding assistant that lives directly in your command line, understands your entire project, and can make wholesale changes across multiple files with a single natural language command?&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Codebuff&lt;/strong&gt; – the terminal-native AI coding assistant that&amp;rsquo;s changing how developers interact with AI tools.&lt;/p&gt;
+&lt;h2 id=&#34;what-makes-codebuff-different&#34;&gt;What Makes Codebuff Different?&lt;/h2&gt;
+&lt;h3 id=&#34;its-built-for-the-terminal&#34;&gt;It&amp;rsquo;s Built for the Terminal&lt;/h3&gt;
+&lt;p&gt;Unlike other AI coding tools that require you to leave your workflow, Codebuff operates entirely within your terminal. No more context switching, no more copying and pasting between applications. Just pure, uninterrupted development flow.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
