@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on RA</title>
     <link>https://rusdy.com/categories/</link>
     <description>Recent content in Categories on RA</description>
-    <generator>Hugo -- 0.149.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Sep 2025 14:00:00 +0800</lastBuildDate>
     <atom:link href="https://rusdy.com/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -20,6 +20,20 @@
       <link>https://rusdy.com/categories/health/</link>
       <pubDate>Fri, 05 Sep 2025 16:00:00 +0800</pubDate>
       <guid>https://rusdy.com/categories/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Creator Economy</title>
+      <link>https://rusdy.com/categories/creator-economy/</link>
+      <pubDate>Fri, 17 Jan 2025 10:00:00 +0700</pubDate>
+      <guid>https://rusdy.com/categories/creator-economy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Media</title>
+      <link>https://rusdy.com/categories/social-media/</link>
+      <pubDate>Fri, 17 Jan 2025 10:00:00 +0700</pubDate>
+      <guid>https://rusdy.com/categories/social-media/</guid>
       <description></description>
     </item>
   </channel>
